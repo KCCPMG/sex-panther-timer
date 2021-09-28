@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sex-panther-timer/static/css/main.0982634d.chunk.css",
-    "main.js": "/sex-panther-timer/static/js/main.59e39dde.chunk.js",
-    "main.js.map": "/sex-panther-timer/static/js/main.59e39dde.chunk.js.map",
+    "main.js": "/sex-panther-timer/static/js/main.f05bc03c.chunk.js",
+    "main.js.map": "/sex-panther-timer/static/js/main.f05bc03c.chunk.js.map",
     "runtime-main.js": "/sex-panther-timer/static/js/runtime-main.303afd79.js",
     "runtime-main.js.map": "/sex-panther-timer/static/js/runtime-main.303afd79.js.map",
     "static/js/2.1509be08.chunk.js": "/sex-panther-timer/static/js/2.1509be08.chunk.js",
@@ -52,6 +52,6 @@
     "static/js/runtime-main.303afd79.js",
     "static/js/2.1509be08.chunk.js",
     "static/css/main.0982634d.chunk.css",
-    "static/js/main.59e39dde.chunk.js"
+    "static/js/main.f05bc03c.chunk.js"
   ]
 }
